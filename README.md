@@ -8,7 +8,7 @@
 <p>A visualisation of immigration to Europe/the Netherlands factoring in country of origin and generation<br />
 <h3>Possible user interactions</h3>
 <h5>MVP</h5>
-<p>
+<p>First figure shows dispersion by generation for immigrants from all available countries to the Netherlands with a select menu for which country
 <h5>Optional</h5>
 <p>
 
