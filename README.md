@@ -13,6 +13,8 @@ Second figure is a bar graph of the number of immigrants to the Netherlands/Euro
 Third figure shows specific information for countries on hover with option to move to second figure for the selected country
 <h5>Optional</h5>
 <p>Third figure contains lines between countries that represent immigration between European countries. Thickness corresponds to the total number of immigrants.<br />
+Fourth figure shows immigration from countries around the world to Europe with thickness of line corresponding to total number of immigrants.<br />
+Fifth figure would be a reversal of figure 4, showing immigration from Europe to other countries around the world
 
 <h1>Prerequisites</h1>
 <h3>Data Sources</h3>
