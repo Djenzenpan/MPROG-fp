@@ -1,9 +1,11 @@
 # Final project Jesse Pannekeet
+<h1>Immigration to Europe/the Netherlands</h1>
+Jesse Pannekeet
 
-<h1>Problem statement</h1>
+<h2>Problem statement</h2>
 <p>At the moment, immigration is a heavily debated topic in Europe/the Netherlands but these debates rarely tell the whole story. Distinctions between first- and second-generation immigrants are usually not factored into the debate and they are often focused on specific countries while leaving out others. Politicians and voters could both benefit from visualisations of data that tell the whole story.
 
-<h1>Solution</h1>
+<h2>Solution</h2>
 <h3>Summary</h3>
 <p>A visualisation of immigration to Europe/the Netherlands factoring in country of origin and generation<br />
 <h3>Possible user interactions</h3>
@@ -16,7 +18,7 @@ Third figure shows specific information for countries on hover with option to mo
 Fourth figure shows immigration from countries around the world to Europe with thickness of line corresponding to total number of immigrants.<br />
 Fifth figure would be a reversal of figure 4, showing immigration from Europe to other countries around the world
 
-<h1>Prerequisites</h1>
+<h2>Prerequisites</h2>
 <h3>Data Sources</h3>
 <p>Eurostat, conversion from excel to json<br />
 https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Migration_and_migrant_population_statistics&oldid=348832#Migration_flows:_Immigration_to_the_EU_from_non-member_countries_was_2.4_million_in_2017
