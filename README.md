@@ -1,6 +1,6 @@
 # Final project Jesse Pannekeet
 <h1>Immigration to Europe/the Netherlands</h1>
-Jesse Pannekeet
+
 
 <h2>Problem statement</h2>
 <p>At the moment, immigration is a heavily debated topic in Europe/the Netherlands but these debates rarely tell the whole story. Distinctions between first- and second-generation immigrants are usually not factored into the debate and they are often focused on specific countries while leaving out others. Politicians and voters could both benefit from visualisations of data that tell the whole story.
