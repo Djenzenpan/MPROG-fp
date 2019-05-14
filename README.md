@@ -8,9 +8,11 @@
 <p>A visualisation of immigration to Europe/the Netherlands factoring in country of origin and generation<br />
 <h3>Possible user interactions</h3>
 <h5>MVP</h5>
-<p>First figure shows dispersion by generation for immigrants from all available countries to the Netherlands with a select menu for which country
+<p>First figure shows dispersion by generation for immigrants from all available countries to the Netherlands with a select menu for which country<br />
+Second figure is a bar graph of the number of immigrants to the Netherlands/European countries for each country around the world divided in first and second generation immigrants. Contains a checkbox to select individual countries. When clicking a bar, moves to figure 1 for that specific country<br />
+Third figure shows specific information for countries on hover with option to move to second figure for the selected country
 <h5>Optional</h5>
-<p>
+<p>Third figure contains lines between countries that represent immigration between European countries. Thickness corresponds to the total number of immigrants.<br />
 
 <h1>Prerequisites</h1>
 <h3>Data Sources</h3>
